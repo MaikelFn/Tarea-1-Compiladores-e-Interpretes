@@ -1,9 +1,20 @@
-# Tarea-1-Compiladores-e-Interpretes
+# Tarea #1 — Gramática BNF
 
-## Decisiones tomadas
+## Curso
+Compiladores e Intérpretes
 
-los no terminales se escriben entre '< >' usando la primera letra de cada palabra en mayúscula y guion_bajo para compuestos. 
-Los operadores se prefijan con 'Op_' y los literales con 'Lit_', diferenciándolos de los tipos.
-'Lit_Bool' usa "true"/"false".
-Simbolo_Valido agrupa símbolos permitidos en 'Char'/'String'
-el enunciado restringe los operadores pot y mod a operandos de tipo entero sin embargo esto no podemos abarcarlo por completo de forma sintactica por lo que decidimos abarcarlo luego.
+## Semestre
+Semestre II, 2026
+
+## Estudiantes
+- Tayler Wynta Rodríguez — Carné: 2024143103
+- Maikel Flores Navarro — Carné: [pendiente]
+
+## Tarea
+Tarea #1 — Gramática BNF (Lenguaje de programación Imperativo)
+
+## Fecha de entrega
+11 de Septiembre de 2026
+
+## Estatus
+Excelente
